@@ -5,13 +5,13 @@ testcase1
 *Hello, world.*  
 **Goodbye, world.** 
 
-- Hello
-- World
-- Goodbye 
+- list1
+- list2
+- list3 
 
-1. Hello 
-2. World
-3. Goodbye 
+1. list1
+2. list2
+3. list3 
 
 * [x] task1
 * [ ] task2
@@ -19,11 +19,6 @@ testcase1
 
 [Google](http://www.google.co.jp/)  
 [http://www.google.co.jp/](http://www.google.co.jp/)
-
-| Left align | Right align | Center align | 
-|:-----------|------------:|:------------:| 
-| A | B | C | 
-| Hello | world | Goodbye | 
 
 > Hello, world. 
 > Goorbye, world.  
@@ -41,6 +36,12 @@ public class A{
 
 
 ### Precondition
+
+| Left align | Right align | Center align | 
+|:-----------|------------:|:------------:| 
+| A | B | C | 
+| Hello | world | Goodbye | 
+
 
 | 列 1 | 列 2 (左寄せ) | 列 3 (中央) | 列 4 (右寄せ) |
 |------|:--------------|:-----------:|--------------:|
