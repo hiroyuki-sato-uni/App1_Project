@@ -13,9 +13,9 @@ testcase1
 2. World
 3. Goodbye 
 
-* [x] 完了したタスク1
-* [ ] 未完了のタスク
-* [x] 完了したタスク2
+* [x] task1
+* [ ] task2
+* [x] task3
 
 [Google](http://www.google.co.jp/)  
 [http://www.google.co.jp/](http://www.google.co.jp/)
