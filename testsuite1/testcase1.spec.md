@@ -18,6 +18,11 @@ testcase1
 3. Goodbye 
 
 ---
+* [x] 完了したタスク1
+* [ ] 未完了のタスク
+* [x] 完了したタスク2
+
+---
 | Left align | Right align | Center align | 
 |:-----------|------------:|:------------:| 
 | A | B | C | 
