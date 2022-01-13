@@ -64,6 +64,8 @@ public class A{
 ### Step
 | アクション | 期待結果 |
 |---|---|
-| Click the Test Project Switch button. | The import of the test project and the test project list are displayed. |
+| Action1-1 | Result1-1 |
+| Action1-2 | Result1-2 |
+| Action1-3 | Result1-3 |
 
 
