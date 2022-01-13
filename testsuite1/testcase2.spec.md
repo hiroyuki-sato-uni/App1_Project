@@ -2,8 +2,6 @@
 testcase2
 
 ### Summary
-*Hello, world.*  
-**Goodbye, world.** 
 
 
 ### Precondition
