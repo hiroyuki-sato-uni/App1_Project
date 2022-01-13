@@ -24,22 +24,6 @@ public class A{
 
 
 ### Precondition
-| Left align | Right align | Center align | 
-|:-----------|------------:|:------------:| 
-| A | B | C | 
-| Hello | world | Goodbye | 
-
-- list1
-- list2
-- list3 
-
-1. list1
-2. list2
-3. list3 
-
-* [x] task1
-* [ ] task2
-* [x] task3
 
 
 ### Step
