@@ -2,10 +2,10 @@
 testcase2
 
 ### Summary
-
+sample
 
 ### Precondition
-
+sample
 
 ### Step
 | アクション | 期待結果 |
