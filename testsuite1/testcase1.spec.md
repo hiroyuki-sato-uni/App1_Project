@@ -58,7 +58,7 @@ public class A{
 ```
 
 ---
-[Google](http://www.google.co.jp/)<br>
+[Google](http://www.google.co.jp/)  
 [http://www.google.co.jp/](http://www.google.co.jp/)
 
 
